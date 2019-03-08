@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552046214835.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3551606774",
+    "id" : "AF2417B3",
+    "lastKnownWriteTime" : 1552046261,
+    "last_content_update" : 1552046261517,
+    "path" : "~/GitHub/ANewRepo/hw2.Rmd",
+    "project_path" : "hw2.Rmd",
+    "properties" : {
+        "cursorPosition" : "1,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
